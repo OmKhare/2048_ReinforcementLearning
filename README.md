@@ -1,8 +1,8 @@
 # Reinforcement Learning Model for 2048 Game
 
-Team members:
-Om Khare (MIS 112003066) Div 1
-Harshmohan Kulkarni (MIS 112003075) Div 1
+Team members: <br/>
+Om Khare (MIS 112003066) <br/>
+Harshmohan Kulkarni (MIS 112003075)
 
 ## Objective
 The project aims to develop a reinforcement learning (RL) agent that can effectively play and potentially master the game 2048, a popular single-player puzzle game. The agent uses a Deep Q-Network (DQN) to evaluate and select the best moves based on the current state of the game board.
